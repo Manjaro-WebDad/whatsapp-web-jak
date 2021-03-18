@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open 
+[Desktop Entry]
+Name=Whatsapp Web
+Comment=secure messaging and calling for free, available on phones all over the world.
+Exec=whatsapp-web-jak
+Icon=applications-internet
+Terminal=false
+Type=Application
+Categories=Network;
+
